@@ -1,2 +1,2 @@
 # pan-cancer-analysis
-In this repository are available all files and code which pan-cancer analysis was made with.
+This repository contains all the files and codes with which pan-cancer analysis was made.
