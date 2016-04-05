@@ -8,7 +8,8 @@ Different data sources were used to retrieve data for this analysis:
 
 ###Folder format
 In order to run the analysis script, the folder which contains the data must follow some rules.
-*Every cancer has its own folder in the main directory. These folders include the expression file for each cancer and the clinical data   
-*The main folder also must contain an anotation file which includes the TF-target pairs. This file was made overlapping the coordinates of the TFBS and the promoter regions of coding genes.
+
+ *Every cancer has its own folder in the main directory. These folders include the expression file for each cancer and the clinical data   
+ *The main folder also must contain an anotation file which includes the TF-target pairs. This file was made overlapping the coordinates of the TFBS and the promoter regions of coding genes.
 
 
