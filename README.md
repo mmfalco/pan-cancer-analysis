@@ -1,5 +1,5 @@
 # pan-cancer-analysis
-This repository contains all the codes with which pan-cancer analysis was made.
+This repository contains the codes with which pan-cancer analysis was made.
 
 ###Used Data:
 Different data sources were used to retrieve data for this analysis:
