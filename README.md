@@ -15,3 +15,4 @@ In order to run the analysis script, the folder which contains the data must fol
  -The main folder also must contain an anotation file which includes the TF-target pairs. This file was made overlapping the coordinates of the TFBS and the promoter regions of coding genes.
 
 
+Este analysis fue ejecutado con... y la main folder ocupa tantos GB
