@@ -13,6 +13,7 @@ In order to run the analysis script, the folder which contains the data(main dir
 
  -Every cancer has its own folder in the main directory. These folders include the expression file for each cancer and the clinical data. From these files must create one file(donors.txt), which has the unique name of the donors of icgc clinical file, and another one(genes.txt) which has in one column all the unique genes from the expression data file.  
  -The main folder also must contain an anotation file which includes the TF-target pairs. This file was made overlapping the coordinates of the TFBS and the promoter regions of coding genes.
+ 
  -A folder named results will be necessary, since all the results will be stored there
 
 Este analysis fue ejecutado con... y la main folder ocupa tantos GB
