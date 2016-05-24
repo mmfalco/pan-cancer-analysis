@@ -1,4 +1,4 @@
-# pan-cancer-analysis
+# Pan-cancer-analysis
 This repository contains the codes with which pan-cancer analysis was made.
 
 ###Used Data:
